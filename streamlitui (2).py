@@ -28,7 +28,7 @@ Original file is located at
      st.write("📝 **Basic File Information:**")
      st.write(df.describe(include="all"))  # Summary statistics
      st.write(f"**Rows:** {df.shape[0]}, **Columns:** {df.shape[1]}")
-     st.write(f"Project")
+     st.write(f"PROJECT")
 
 
 
